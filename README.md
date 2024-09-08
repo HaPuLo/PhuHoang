@@ -22,7 +22,7 @@
 ## Course: 
 | Course                                                          | Link                            | Complete  |
 |-----------------------------------------------------------------|---------------------------------|-----------|
-| GitHub Copilot - The Complete Guide                             | [Link](https://www.udemy.com/)  | 40%       |
+| GitHub Copilot - The Complete Guide                             | [Link]([https://www.udemy.com/](https://intel.udemy.com/course/github-copilot-the-complete-guide))  | 40%       |
 | Python and Django Full Stack Web Developer Bootcamp             | [Link](https://www.udemy.com/)  | No        |
 | The Complete SQL Bootcamp: Go from Zero to Hero                 | [Link](https://www.udemy.com/)  | 30%       |
 | GitHub Copilot Zero to Hero: Use AI to write code for you!      | [Link](https://www.udemy.com/)  | No        |
