@@ -33,9 +33,7 @@
 
 
 ## Projects
-- To be updated
-- [Project Name](link): Description
-- [Project Name](link): Description
+I'm trying to equip knowlege to develope a Investment web which can help me manage my porfolio...
 
 
 ## GitHub Stats
