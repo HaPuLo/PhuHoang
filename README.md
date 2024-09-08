@@ -19,11 +19,24 @@
 - **Tools**: 
   - VSCode
   - GitHub Copilot
+## Course: 
+| Course                                                          | Link                            | Complete  |
+|-----------------------------------------------------------------|---------------------------------|-----------|
+| GitHub Copilot - The Complete Guide                             | [Link](https://www.udemy.com/)  | 40%       |
+| Python and Django Full Stack Web Developer Bootcamp             | [Link](https://www.udemy.com/)  | No        |
+| The Complete SQL Bootcamp: Go from Zero to Hero                 | [Link](https://www.udemy.com/)  | 30%       |
+| GitHub Copilot Zero to Hero: Use AI to write code for you!      | [Link](https://www.udemy.com/)  | No        |
+| Python for Computer Vision with OpenCV and Deep Learning        | [Link](https://www.udemy.com/)  | No        |
+| The Complete Pandas Bootcamp 2024: Data Science with Python     | [Link](https://www.udemy.com/)  | 70%       |
+| Complete C# Programming Master Class                            | [Link](https://www.udemy.com/)  | No        |
+
+
 
 ## Projects
 - To be updated
 - [Project Name](link): Description
 - [Project Name](link): Description
+
 
 ## GitHub Stats
 ![Otis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
