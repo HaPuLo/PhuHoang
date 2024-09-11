@@ -20,6 +20,7 @@
   - VSCode
   - GitHub Copilot
 ## Course: 
+
 | Course                                                          | Complete  |
 |-----------------------------------------------------------------|-----------|
 | GitHub Copilot - The Complete Guide                             | 45%       |
@@ -29,6 +30,7 @@
 | Python for Computer Vision with OpenCV and Deep Learning        | No        |
 | The Complete Pandas Bootcamp 2024: Data Science with Python     | 75%       |
 | Complete C# Programming Master Class                            | No        |
+| CS50 link: https://cs50.harvard.edu/x/2024/weeks                | 5%        |
 
 
 
